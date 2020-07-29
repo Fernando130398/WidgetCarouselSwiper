@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../package/swiper-bundle.min.css">
+
 <!-- Swiper -->
   <div class="swiper-container">
     <div class="swiper-wrapper">
@@ -15,3 +17,15 @@
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>
   </div>
+
+<script src="../package/swiper-bundle.min.js"></script>
+
+<script>
+    var swiper = new Swiper('.swiper-container', {
+      direction: 'vertical',
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+    });
+  </script>
