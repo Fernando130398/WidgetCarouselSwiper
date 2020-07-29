@@ -1,0 +1,31 @@
+{
+    "version":"1.0.0",
+    "name":"CarouselWidget",
+    "marketplaceName":{
+        "de":"CarouselWidget",
+        "en":"CarouselWidget"
+    },
+    "license":"AGPL-3.0",
+    "pluginIcon":"",
+    "price":0.00,
+    "description":"A carousel widget",
+    "shortDescription":{
+        "de":"",
+        "en":""
+    },
+    "categories":["3885"],
+    "author":"Fernando Cortés",
+    "authorIcon":"",
+    "email":"fradcres@gmail.com",
+    "phone":"+52 5542707628",
+
+    "keywords":["plentymarkets", "widgets","carousel"],
+    "type":"widgets",
+    "require":[],
+    "namespace":"CarouselWidget",
+    "serviceProvider":"CarouselWidget\\Providers\\CarouselWidgetServiceProvider",
+    "javaScriptFiles":[],
+    "containers":[],
+    "dataProviders":[],
+    "dependencies":[]
+}

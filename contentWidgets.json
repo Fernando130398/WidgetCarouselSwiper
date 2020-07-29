@@ -1,0 +1,20 @@
+[
+    {
+        "identifier":"CarouselWidget::CarouselWidget",
+        "label":"CarouselWidget",
+        "previewImageURL":"",
+        "type":"static",
+        "categories":[],
+        "widgetClass":"CarouselWidget\\Widgets\\CarouselWidget",
+        "settings":{
+            "image":{
+                "type":"file",
+                "required":false,
+                "defaultValue":"",
+                "options":{
+                    "name":"CardWidgetImageLabel"
+                }
+            }
+        }
+    }
+]
